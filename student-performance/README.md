@@ -18,6 +18,7 @@ student-performance/
 │
 ├── main.ipynb                    # Main Jupyter notebook with analysis
 └── student_performance.csv       # Dataset (1M student records)
+└── README.md
 ```
 
 ## 📁 Dataset
@@ -113,7 +114,11 @@ This project is open source and available for educational purposes.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+This is an educational project, but suggestions and improvements are welcome! Feel free to:
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
 
 ## ⭐ Show Your Support
 
