@@ -65,7 +65,7 @@ anime-feature-extraction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/MeetBataviya13/anime-feature-extraction.git
+git clone https://github.com/MeetBataviya13/Python-Pandas-Projects.git
 
 # Navigate to project directory
 cd anime-feature-extraction
