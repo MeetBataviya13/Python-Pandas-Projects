@@ -74,7 +74,7 @@ pip install numpy pandas jupyter
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MeetBataviya13/student-performance.git
+git clone https://github.com/MeetBataviya13/Python-Pandas-Projects.git
 cd student-performance
 ```
 
